@@ -1,0 +1,10 @@
+# Core dependencies
+agno>=0.1.0
+youtube-transcript-api>=0.6.1
+python-dotenv>=1.0.0
+
+# Model libraries
+google-generativeai>=0.3.1
+
+# Optional dependencies
+openai>=1.5.0  # Optional, only if using OpenAI models
