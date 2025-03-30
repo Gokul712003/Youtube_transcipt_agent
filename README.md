@@ -36,15 +36,6 @@ A smart AI assistant that helps you study and understand YouTube videos by autom
 Create a `.env` file in the project root with the following variables:
 - `GOOGLE_API_KEY`: Your Google API key for Gemini model access
 
-## Usage
-
-Once the application is running, open your browser and navigate to the URL shown in the terminal (typically http://localhost:7777).
-
-In the playground interface:
-1. Paste a YouTube URL
-2. The assistant will automatically extract and process the transcript
-3. Ask questions about the video content for additional insights
-
 ## Requirements
 
 See requirements.txt for a list of dependencies.
